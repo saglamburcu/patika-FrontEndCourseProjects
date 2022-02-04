@@ -1,0 +1,19 @@
+.body {
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+}
+
+.bg-medium {
+    background-color: #C4E2FF;
+}
+
+.border1 {
+    border-bottom: black 1px solid;
+}
+
+.border2 {
+    border-bottom: rgba(230, 230, 230, 1) 1px solid;
+}
+
+.border3 {
+    border-top: rgba(230, 230, 230, 1) 1px solid;
+}

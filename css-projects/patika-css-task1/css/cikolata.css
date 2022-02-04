@@ -1,0 +1,37 @@
+img {
+    width: 400px;
+}
+
+
+body {
+    background-color: #DEB887;
+    font-family: 'Caveat', cursive;
+    font-size: 25px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+    color: #A0522D;
+}
+
+h3 {
+    font-size: 30px;
+    color: #A0522D;
+}
+
+.text-color {
+    color: #CD853F;
+}
+
+#first-list {
+    list-style-position:inside;
+}
+
+#second-list {
+    list-style-position: inside;
+}

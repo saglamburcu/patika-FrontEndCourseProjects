@@ -1,0 +1,95 @@
+/**************LOGO**********/
+img {
+    width: 350px;
+    display: block;
+    margin: 10px auto 0;
+}
+
+/************CONTENT***********/
+.container1 {
+    width: 1420px;
+    margin: 1px auto 1px;
+    background-color: rgb(238, 238, 238);
+}
+
+.container1 > p {
+    padding: 1px auto 1px;
+    width: 200px;
+    margin: 0 auto 1px;
+}
+
+.container1 > input {
+    display: block;
+    width: 300px;
+    margin: 0 auto 0;
+    padding: 1px auto 0;
+}
+
+.button {
+    width: 300px;
+    margin: 0 auto 1px;
+    text-align: center;
+}
+
+/************FOOTER***********/
+.bigContainer {
+    width: 1420px;
+    margin: 2px auto 1px;
+    display: flex;
+    height: 80px;
+}
+
+.container2 {
+    background-color: rgb(126, 229, 218);
+    width: 37%;
+    margin-right: 0.1%; 
+    text-align: center;
+}
+
+.container2>p {
+    margin: 11px auto 1px;
+}
+
+.container2>a {
+    display: block;
+    margin: 0 auto;
+}
+
+.container3 {
+    background-color: rgb(112, 204, 194);
+    width: 19.5%;
+    margin-right: 0.15%; 
+    padding-top: 11px;    
+}
+
+div.container3 * {
+    display: block;
+    text-align: center;
+    font-size: 13px;
+}
+
+.container4 {
+    background-color: rgb(98, 179, 170);
+    width: 43.25%;
+    text-align: center;  
+    padding-top: 2px;  
+    font-size: 13px;
+}
+
+div.container4>p {
+    margin: 1px auto;
+}
+
+.container4>input {
+    display: block;
+    margin: 0 auto;
+}
+
+.container4>button {
+    margin-right: 10px;
+}
+
+#footer {
+    font-size: 13px;
+    text-align: center;
+}
